@@ -3,8 +3,8 @@ env
 
 *.pyc
 *.log
-*.txt
-!requirements.txt
+
+
 .env
 source_correct/*.pyc
 _pycache_/*
